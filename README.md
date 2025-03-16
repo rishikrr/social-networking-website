@@ -74,7 +74,7 @@ SOCIALBOOK WEBSITE 🌐 Social Networking Website 🚀 A Full-Stack Social Netwo
 
 🏗️ Tech Stack Frontend: HTML, CSS, JavaScript (React.js) Backend: Python (Django/Flask) or Node.js (Express.js) Database: PostgreSQL / MongoDB / MySQL Authentication: JWT / OAuth Hosting: AWS / Heroku / Vercel 🚀 How to Set Up 1️⃣ Clone this repository
 
-bash Copy Edit github :- https://github.com/Yasintech-hub/SOCIAL-NETWORKING-WEBSITE cd social-networking-website 2️⃣ Install dependencies
+bash Copy Edit github :- https://github.com/rishikrr/social-networking-website/edit/main/README.md  2️⃣ Install dependencies
 
 bash Copy Edit npm install # If using Node.js pip install -r requirements.txt # If using Python 3️⃣ Set up environment variables 4️⃣ Run the application
 
@@ -84,7 +84,7 @@ bash Copy Edit npm start # For React frontend python manage.py runserver # If us
 
 📌 Future Enhancements Live Video Streaming AI-Powered Post Recommendations Advanced Privacy Settings 📢 Contributing Feel free to fork this repository and contribute! Open to feedback and suggestions.
 
-📬 Contact For queries, reach out via LinkedIn or email (yasinbagwan025@gmail.com.com).
+📬 Contact For queries, reach out via LinkedIn or email :-
 
 About
 SOCIALBOOK WEBSITE
